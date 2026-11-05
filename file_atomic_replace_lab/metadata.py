@@ -1,0 +1,1 @@
+DESCRIPTION = {'fr': 'Tuer un écrivain avant et après remplacement atomique de fichier', 'en': 'Kill a writer before and after atomic file replacement', 'es': 'Matar un escritor antes y después de reemplazo atómico de archivo'}
